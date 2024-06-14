@@ -8,6 +8,6 @@ In this project, we will predict if the Falcon 9 first stage will land successfu
 - Utilize data science methodologies to define and formulate a real-world business problem
 - Utilize your data analysis tools to load a dataset, clean it, and find interesting insights from it
 
-
+## Lab 1: Collecting the data ##
 In the first lab [jupyter-labs-spacex-data-collection-api-2.ipynb](https://github.com/mlubbad/SpaceX-Falcon-9-first-stage-Landing-Prediction/blob/main/jupyter-labs-spacex-data-collection-api-2.ipynb), you will collect and make sure the data is in the correct format from an API.
 
