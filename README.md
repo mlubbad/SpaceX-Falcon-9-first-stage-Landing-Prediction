@@ -11,16 +11,16 @@ In this project, we will predict if the Falcon 9 first stage will land successfu
 ## Lab 1: Collecting the data ##
 
 ### From API ###
-In this lab [jupyter-labs-spacex-data-collection-api-2.ipynb](https://github.com/mlubbad/SpaceX-Falcon-9-first-stage-Landing-Prediction/blob/main/jupyter-labs-spacex-data-collection-api-2.ipynb), you will collect and make sure the data is in the correct format from an API.
+In this lab [jupyter-labs-spacex-data-collection-api-2](https://github.com/mlubbad/SpaceX-Falcon-9-first-stage-Landing-Prediction/blob/main/jupyter-labs-spacex-data-collection-api-2.ipynb), you will collect and make sure the data is in the correct format from an API.
 
 ### From Web Scrapping ###
-In this lab [jupyter-labs-webscraping.ipynb](https://github.com/mlubbad/SpaceX-Falcon-9-first-stage-Landing-Prediction/blob/main/jupyter-labs-webscraping.ipynb), you will be performing web scraping to collect Falcon 9 historical launch records from a Wikipedia page titled [List of Falcon 9 and Falcon Heavy launches](https://en.wikipedia.org/wiki/List_of_Falcon_9_and_Falcon_Heavy_launches)
+In this lab [jupyter-labs-webscraping](https://github.com/mlubbad/SpaceX-Falcon-9-first-stage-Landing-Prediction/blob/main/jupyter-labs-webscraping.ipynb), you will be performing web scraping to collect Falcon 9 historical launch records from a Wikipedia page titled [List of Falcon 9 and Falcon Heavy launches](https://en.wikipedia.org/wiki/List_of_Falcon_9_and_Falcon_Heavy_launches)
 
 ## Lab 2: Data wrangling ## 
-In this lab [labs-jupyter-spacex-Data%20wrangling.ipynb](https://github.com/mlubbad/SpaceX-Falcon-9-first-stage-Landing-Prediction/blob/main/labs-jupyter-spacex-Data%20wrangling.ipynb), we will perform some Exploratory Data Analysis (EDA) to find some patterns in the data and determine what would be the label for training supervised models.
+In this lab [labs-jupyter-spacex-Data%20wrangling](https://github.com/mlubbad/SpaceX-Falcon-9-first-stage-Landing-Prediction/blob/main/labs-jupyter-spacex-Data%20wrangling.ipynb), we will perform some Exploratory Data Analysis (EDA) to find some patterns in the data and determine what would be the label for training supervised models.
 
 ### Hands-on Lab: Complete the EDA with SQL ### 
-*Using this lab [jupyter-labs-eda-sql-coursera_sqllite-2.ipynb](https://github.com/mlubbad/SpaceX-Falcon-9-first-stage-Landing-Prediction/blob/main/jupyter-labs-eda-sql-coursera_sqllite-2.ipynb) you will:*
+*Using this lab [jupyter-labs-eda-sql-coursera_sqllite-2](https://github.com/mlubbad/SpaceX-Falcon-9-first-stage-Landing-Prediction/blob/main/jupyter-labs-eda-sql-coursera_sqllite-2.ipynb) you will:*
 - Understand the Spacex DataSet
 - Load the dataset into the corresponding table in a Db2 database
 - Execute SQL queries to answer assignment questions
@@ -30,7 +30,7 @@ In this lab [labs-jupyter-spacex-Data%20wrangling.ipynb](https://github.com/mlub
 
 In this assignment, we will predict if the Falcon 9 first stage will land successfully. SpaceX advertises Falcon 9 rocket launches on its website with a cost of 62 million dollars; other providers cost upward of 165 million dollars each, much of the savings is since SpaceX can reuse the first stage.
 
-In this lab [edadataviz.ipynb](https://github.com/mlubbad/SpaceX-Falcon-9-first-stage-Landing-Prediction/blob/main/edadataviz.ipynb), you will perform Exploratory Data Analysis and Feature Engineering.
+In this lab [edadataviz](https://github.com/mlubbad/SpaceX-Falcon-9-first-stage-Landing-Prediction/blob/main/edadataviz.ipynb), you will perform Exploratory Data Analysis and Feature Engineering.
 
 ## Lab 3: Interactive Visual Analytics and Dashboard ##
 In this module, you will build a dashboard to analyze launch records interactively with Plotly Dash. You will then build an interactive map to analyze the launch site proximity with Folium.
@@ -43,10 +43,10 @@ In this module, you will build a dashboard to analyze launch records interactive
 - Build an interactive map to analyze the launch site's proximity with Folium.
 
 ### Hands-on Lab: Launch Sites Locations Analysis with Folium ###
-In this lab [lab_jupyter_launch_site_location.ipynb](https://github.com/mlubbad/SpaceX-Falcon-9-first-stage-Landing-Prediction/blob/main/lab_jupyter_launch_site_location.ipynb). The launch success rate may depend on many factors such as payload mass, orbit type, and so on. It may also depend on the location and proximities of a launch site, i.e., the initial position of rocket trajectories. Finding an optimal location for building a launch site certainly involves many factors and hopefully, we could discover some of the factors by analyzing the existing launch site locations.
+In this lab [lab_jupyter_launch_site_location](https://github.com/mlubbad/SpaceX-Falcon-9-first-stage-Landing-Prediction/blob/main/lab_jupyter_launch_site_location.ipynb). The launch success rate may depend on many factors such as payload mass, orbit type, and so on. It may also depend on the location and proximities of a launch site, i.e., the initial position of rocket trajectories. Finding an optimal location for building a launch site certainly involves many factors and hopefully, we could discover some of the factors by analyzing the existing launch site locations.
 
 ### Hands-on Lab: Build an Interactive Dashboard with Ploty Dash ###
-In this lab [](), you will be building a Plotly Dash application for users to perform interactive visual analytics on SpaceX launch data in
+In this lab [Build a Dashboard Application with Plotly Dash](https://github.com/mlubbad/SpaceX-Falcon-9-first-stage-Landing-Prediction/blob/main/Build%20a%20Dashboard%20Application%20with%20Plotly%20Dash.pdf), you will be building a Plotly Dash application for users to perform interactive visual analytics on SpaceX launch data in
 real-time.
 
 ## Lab 4: Predictive Analysis (Classification) ###
@@ -60,4 +60,4 @@ In this module, you will use machine learning to determine if the first stage of
 - Utilize your machine learning skills to build a predictive model to help a business function more efficiently
 
 ### Hands-on Lab: Complete the Machine Learning Prediction lab ###
-In this Lab [SpaceX_Machine%20Learning%20Prediction_Part_5.ipynb](https://github.com/mlubbad/SpaceX-Falcon-9-first-stage-Landing-Prediction/blob/main/SpaceX_Machine%20Learning%20Prediction_Part_5.ipynb), we will review Predictive Analysis. In this lab, we will build a machine learning pipeline to predict if the first stage of the Falcon 9 lands successfully. This will include: Preprocessing, allowing us to standardize our data, and Train_test_split, allowing us to split our data into training and testing data, We will train the model and perform Grid Search, allowing us to find the hyperparameters that allow a given algorithm to perform best. Using the best hyperparameter values, we will determine the model with the best accuracy using the training data. You will test Logistic Regression, Support Vector machines, Decision Tree Classifier, and K-nearest neighbors. Finally, we will output the confusion matrix.
+In this Lab [SpaceX_Machine Learning Prediction_Part_5](https://github.com/mlubbad/SpaceX-Falcon-9-first-stage-Landing-Prediction/blob/main/SpaceX_Machine%20Learning%20Prediction_Part_5.ipynb), we will review Predictive Analysis. In this lab, we will build a machine learning pipeline to predict if the first stage of the Falcon 9 lands successfully. This will include: Preprocessing, allowing us to standardize our data, and Train_test_split, allowing us to split our data into training and testing data, We will train the model and perform Grid Search, allowing us to find the hyperparameters that allow a given algorithm to perform best. Using the best hyperparameter values, we will determine the model with the best accuracy using the training data. You will test Logistic Regression, Support Vector machines, Decision Tree Classifier, and K-nearest neighbors. Finally, we will output the confusion matrix.
