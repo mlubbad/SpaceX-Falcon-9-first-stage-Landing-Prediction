@@ -33,5 +33,15 @@ In this assignment, we will predict if the Falcon 9 first stage will land succes
 In this lab [edadataviz.ipynb](https://github.com/mlubbad/SpaceX-Falcon-9-first-stage-Landing-Prediction/blob/main/edadataviz.ipynb), you will perform Exploratory Data Analysis and Feature Engineering.
 
 
-## Lab 4: Complete the Machine Learning Prediction lab ###
+## Lab 4: Predictive Analysis (Classification) ###
+In this Lab, you will use machine learning to determine if the first stage of Falcon 9 will land successfully. You will split your data into training data and test data to find the best Hyperparameter for SVM, Classification Trees, and Logistic Regression. Then find the method that performs best using test data.
+In this module, you will use machine learning to determine if the first stage of Falcon 9 will land successfully. You will split your data into training data and test data to find the best Hyperparameter for SVM, Classification Trees, and Logistic Regression. Then find the method that performs best using test data.
+
+**Learning Objectives**
+- Split the data into training testing data
+- Train different classification models
+- Optimize the Hyperparameter grid search
+- Utilize your machine learning skills to build a predictive model to help a business function more efficiently
+
+### Hands-on Lab: Complete the Machine Learning Prediction lab ###
 In this Lab [SpaceX_Machine%20Learning%20Prediction_Part_5.ipynb](https://github.com/mlubbad/SpaceX-Falcon-9-first-stage-Landing-Prediction/blob/main/SpaceX_Machine%20Learning%20Prediction_Part_5.ipynb), we will review Predictive Analysis. In this lab, we will build a machine learning pipeline to predict if the first stage of the Falcon 9 lands successfully. This will include: Preprocessing, allowing us to standardize our data, and Train_test_split, allowing us to split our data into training and testing data, We will train the model and perform Grid Search, allowing us to find the hyperparameters that allow a given algorithm to perform best. Using the best hyperparameter values, we will determine the model with the best accuracy using the training data. You will test Logistic Regression, Support Vector machines, Decision Tree Classifier, and K-nearest neighbors. Finally, we will output the confusion matrix.
