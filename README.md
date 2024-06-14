@@ -8,7 +8,7 @@ In this project, we will predict if the Falcon 9 first stage will land successfu
 - Utilize data science methodologies to define and formulate a real-world business problem
 - Utilize your data analysis tools to load a dataset, clean it, and find interesting insights from it
 
-## Lab 1: Collecting the dat##
+## Lab 1: Collecting the data ##
 
 ### From API ###
 In this lab [jupyter-labs-spacex-data-collection-api-2.ipynb](https://github.com/mlubbad/SpaceX-Falcon-9-first-stage-Landing-Prediction/blob/main/jupyter-labs-spacex-data-collection-api-2.ipynb), you will collect and make sure the data is in the correct format from an API.
@@ -17,4 +17,4 @@ In this lab [jupyter-labs-spacex-data-collection-api-2.ipynb](https://github.com
 In this lab [jupyter-labs-webscraping.ipynb](https://github.com/mlubbad/SpaceX-Falcon-9-first-stage-Landing-Prediction/blob/main/jupyter-labs-webscraping.ipynb), you will be performing web scraping to collect Falcon 9 historical launch records from a Wikipedia page titled [List of Falcon 9 and Falcon Heavy launches](https://en.wikipedia.org/wiki/List_of_Falcon_9_and_Falcon_Heavy_launches)
 
 ## Lab 2: Data wrangling ## 
-In this lab [](), we will perform some Exploratory Data Analysis (EDA) to find some patterns in the data and determine what would be the label for training supervised models.
+In this lab [labs-jupyter-spacex-Data%20wrangling.ipynb](https://github.com/mlubbad/SpaceX-Falcon-9-first-stage-Landing-Prediction/blob/main/labs-jupyter-spacex-Data%20wrangling.ipynb), we will perform some Exploratory Data Analysis (EDA) to find some patterns in the data and determine what would be the label for training supervised models.
