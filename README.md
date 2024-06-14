@@ -27,6 +27,7 @@ In this lab [labs-jupyter-spacex-Data%20wrangling.ipynb](https://github.com/mlub
 
 ### Hands-on Lab: EDA with Visualization Lab ### 
 *Assignment: Exploring and Preparing Data*
+
 In this assignment, we will predict if the Falcon 9 first stage will land successfully. SpaceX advertises Falcon 9 rocket launches on its website with a cost of 62 million dollars; other providers cost upward of 165 million dollars each, much of the savings is since SpaceX can reuse the first stage.
 
 In this lab [edadataviz.ipynb](https://github.com/mlubbad/SpaceX-Falcon-9-first-stage-Landing-Prediction/blob/main/edadataviz.ipynb), you will perform Exploratory Data Analysis and Feature Engineering.
