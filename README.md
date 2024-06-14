@@ -42,6 +42,8 @@ In this module, you will build a dashboard to analyze launch records interactive
 - Build a dashboard to analyze launch records interactively with Plotly Dash.
 - Build an interactive map to analyze the launch site's proximity with Folium.
 
+### Hands-on Lab: Launch Sites Locations Analysis with Folium ###
+The launch success rate may depend on many factors such as payload mass, orbit type, and so on. It may also depend on the location and proximities of a launch site, i.e., the initial position of rocket trajectories. Finding an optimal location for building a launch site certainly involves many factors and hopefully, we could discover some of the factors by analyzing the existing launch site locations.
 
 ## Lab 4: Predictive Analysis (Classification) ###
 In this Lab, you will use machine learning to determine if the first stage of Falcon 9 will land successfully. You will split your data into training data and test data to find the best Hyperparameter for SVM, Classification Trees, and Logistic Regression. Then find the method that performs best using test data.
