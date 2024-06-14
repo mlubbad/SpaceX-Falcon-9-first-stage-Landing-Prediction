@@ -12,5 +12,5 @@ In this project, we will predict if the Falcon 9 first stage will land successfu
 In this lab [jupyter-labs-spacex-data-collection-api-2.ipynb](https://github.com/mlubbad/SpaceX-Falcon-9-first-stage-Landing-Prediction/blob/main/jupyter-labs-spacex-data-collection-api-2.ipynb), you will collect and make sure the data is in the correct format from an API.
 
 ## Lab 2: Collecting the data From Web Scrapping ##
-In this lab, you will be performing web scraping to collect Falcon 9 historical launch records from a Wikipedia page titled (List of Falcon 9 and Falcon Heavy launches)[https://en.wikipedia.org/wiki/List_of_Falcon_9_and_Falcon_Heavy_launches]
+In this lab [jupyter-labs-webscraping.ipynb](https://github.com/mlubbad/SpaceX-Falcon-9-first-stage-Landing-Prediction/blob/main/jupyter-labs-webscraping.ipynb), you will be performing web scraping to collect Falcon 9 historical launch records from a Wikipedia page titled [List of Falcon 9 and Falcon Heavy launches](https://en.wikipedia.org/wiki/List_of_Falcon_9_and_Falcon_Heavy_launches)
 
