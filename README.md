@@ -32,6 +32,16 @@ In this assignment, we will predict if the Falcon 9 first stage will land succes
 
 In this lab [edadataviz.ipynb](https://github.com/mlubbad/SpaceX-Falcon-9-first-stage-Landing-Prediction/blob/main/edadataviz.ipynb), you will perform Exploratory Data Analysis and Feature Engineering.
 
+## Lab 3: Interactive Visual Analytics and Dashboard ##
+In this module, you will build a dashboard to analyze launch records interactively with Plotly Dash. You will then build an interactive map to analyze the launch site proximity with Folium.
+
+**Learning Objectives**
+- Build an interactive dashboard that contains pie charts and scatter plots to analyze data with the Plotly Dash Python library.
+- Calculate distances on an interactive map by writing Python code using the Folium library.
+- Generate interactive maps, plot coordinates, and mark clusters by writing Python code using the Folium library.
+- Build a dashboard to analyze launch records interactively with Plotly Dash.
+- Build an interactive map to analyze the launch site's proximity with Folium.
+
 
 ## Lab 4: Predictive Analysis (Classification) ###
 In this Lab, you will use machine learning to determine if the first stage of Falcon 9 will land successfully. You will split your data into training data and test data to find the best Hyperparameter for SVM, Classification Trees, and Logistic Regression. Then find the method that performs best using test data.
