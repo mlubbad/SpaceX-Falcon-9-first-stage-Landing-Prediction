@@ -18,3 +18,9 @@ In this lab [jupyter-labs-webscraping.ipynb](https://github.com/mlubbad/SpaceX-F
 
 ## Lab 2: Data wrangling ## 
 In this lab [labs-jupyter-spacex-Data%20wrangling.ipynb](https://github.com/mlubbad/SpaceX-Falcon-9-first-stage-Landing-Prediction/blob/main/labs-jupyter-spacex-Data%20wrangling.ipynb), we will perform some Exploratory Data Analysis (EDA) to find some patterns in the data and determine what would be the label for training supervised models.
+
+### Hands-on Lab: Complete the EDA with SQL ### 
+*Using this lab  you will:*
+- Understand the Spacex DataSet
+- Load the dataset into the corresponding table in a Db2 database
+- Execute SQL queries to answer assignment questions
