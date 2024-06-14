@@ -24,3 +24,5 @@ In this lab [labs-jupyter-spacex-Data%20wrangling.ipynb](https://github.com/mlub
 - Understand the Spacex DataSet
 - Load the dataset into the corresponding table in a Db2 database
 - Execute SQL queries to answer assignment questions
+
+### Hands-on Lab: EDA with Visualization Lab ### 
